@@ -15,6 +15,3 @@ df = df.drop(cols_to_remove, axis=1)
 
 print('cols_to_remove = ["Unnamed: 5", "Unnamed: 6"]')
 print('df = df.drop(cols_to_remove, axis=1)')
-
-
-print('Solucion (código crudo): https://raw.githubusercontent.com/HumbleData/online_workshop_spanish/main/conteudo/solutions/05_13.py')

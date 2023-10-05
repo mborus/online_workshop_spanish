@@ -11,6 +11,3 @@ print('\telse:')
 print('\t\treturn "multiple"\n')
 
 print('f(4) = ',f(4)) #x = 4
-
-
-print('Solucion (código crudo): https://raw.githubusercontent.com/HumbleData/online_workshop_spanish/main/conteudo/solutions/05_34.py')

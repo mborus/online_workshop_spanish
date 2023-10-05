@@ -69,6 +69,3 @@ df = df.drop("Country", axis=1)
 print('df["DateFrom"].dtype)\n')
 
 display(df["DateFrom"].dtype)
-
-
-print('Solucion (código crudo): https://raw.githubusercontent.com/HumbleData/online_workshop_spanish/main/conteudo/solutions/05_39.py')
